@@ -2,7 +2,7 @@
 -----------
 When this malware runs, you will see this screen
 -------------------------------------------------
-![IMG_8555](https://github.com/MasonGroup/XLNS/assets/95870255/21d58e66-e3fe-4cb6-b072-e9f031b8d576)
+![IMG_8557](https://github.com/MasonGroup/XLNS/assets/95870255/cd6dbccc-4f0b-4313-8cbb-f37989e3ebbc)
 ------------------------------------------------------------------------------------------------------
 When the device is shut down, it will not work again because of Mbroverwriter
 ----------------------------------------------------------------------------
